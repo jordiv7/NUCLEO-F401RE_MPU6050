@@ -1,0 +1,5 @@
+../Core/Src/MPU6050.c:10:9:MPU6050_Init	24	static
+../Core/Src/MPU6050.c:130:19:MPU6050_readRegister	40	static
+../Core/Src/MPU6050.c:134:19:MPU6050_writeRegister	40	static
+../Core/Src/MPU6050.c:138:19:MPU6050_readAcceleration	24	static
+../Core/Src/MPU6050.c:162:19:MPU6050_readGyroscope	24	static
